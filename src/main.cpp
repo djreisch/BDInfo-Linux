@@ -34,7 +34,7 @@
 #include <unistd.h>
 
 #ifndef BDINFO_VERSION
-#define BDINFO_VERSION "0.7.6.2"
+#define BDINFO_VERSION "0.8.0.1c"
 #endif
 
 using namespace bdinfo;
